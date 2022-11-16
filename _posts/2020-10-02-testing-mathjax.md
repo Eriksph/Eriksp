@@ -3,7 +3,7 @@ layout: post
 title: Hoja de vida
 tags: mathjax
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2022-11-15 15:32 +0800
 ---
 Datos Personales:
    Nombre: Erik Sebastian Peñafiel Hernandez
