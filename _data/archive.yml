@@ -1,9 +1,9 @@
 - type: dates
-  title: Dates
+  title: Datos
   url: /dates/
 #- type: categories
 #  title: Categories
 #  url: /categories/
 - type: tags
-  title: Tags
+  title: Fotos
   url: /tags/
